@@ -1,0 +1,3 @@
+files:
+  - source: '*.jet'
+    translation: translated/%original_path%/%original_file_name%

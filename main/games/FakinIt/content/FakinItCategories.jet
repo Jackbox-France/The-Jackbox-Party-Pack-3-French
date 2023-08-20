@@ -4,31 +4,31 @@
         {
             "id": 0,
             "type": "Hands",
-            "name": "Hands of Truth",
+            "name": "Main de la vérité",
             "duration": 3
         },
         {
             "id": 1,
             "type": "Pointing",
-            "name": "You Gotta Point",
+            "name": "Tu Pointes!",
             "duration": 3
         },
         {
             "id": 2,
             "type": "Faces",
-            "name": "Face Value",
+            "name": "Fais la Gueule",
             "duration": 3
         },
         {
             "id": 3,
             "type": "Counting",
-            "name": "Number Pressure",
+            "name": "Un, Deux, Doigts",
             "duration": 3
         },
         {
             "id": 4,
             "type": "Input",
-            "name": "Text You Up",
+            "name": "Finale",
             "duration": 90
         }
     ]

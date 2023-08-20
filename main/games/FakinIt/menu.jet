@@ -1,0 +1,26 @@
+[
+    {
+        "title":"JOUER",
+        "action":"doPlayGame",
+        "description":"Créer un salon pour jouer",
+        "value":0
+    },
+    {
+        "title":"CLASSEMENT",
+        "action":"doLeaderboards",
+        "description":"Voir les statistiques des anciennes parties",
+        "value":1
+    },
+    {
+        "title":"PARAMÊTRES",
+        "action":"doSettings",
+        "description":"Changer les paramêtres du jeu",
+        "value":2
+    },
+    {
+        "title":"RETOUR AU PACK",
+        "action":"doBackToPack",
+        "description":"Retourner au pack",
+        "value":3
+    }
+]

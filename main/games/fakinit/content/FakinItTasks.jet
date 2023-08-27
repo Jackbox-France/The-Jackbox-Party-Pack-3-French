@@ -61,7 +61,7 @@
             "x": false,
             "h": false,
             "id": 39902,
-            "category": "Fais la tête que tu ferais au Japon",
+            "category": "Fais la tête que tu ferais au Canada",
             "type": "Faces"
         },
         {
@@ -1650,7 +1650,7 @@
             "x": true,
             "h": true,
             "id": 39202,
-            "category": "Lève la main si tu as vu déjà quelqu’un dans cette pièce complètement nu",
+            "category": "Lève la main si tu as déjà vu quelqu’un dans cette pièce complètement nu",
             "type": "Hands"
         },
         {
@@ -1909,7 +1909,7 @@
             "x": true,
             "h": true,
             "id": 39296,
-            "category": "Lève la main si tu apprécie les boisons alcoolisés",
+            "category": "Lève la main si tu apprécie les boissons alcoolisés",
             "type": "Hands"
         },
         {
@@ -2105,7 +2105,7 @@
             "x": false,
             "h": false,
             "id": 39356,
-            "category": "Lève la main si tu t'es déjà fait aggressé",
+            "category": "Lève la main si tu t'es déjà battu",
             "type": "Hands"
         },
         {
@@ -2119,7 +2119,7 @@
             "x": false,
             "h": false,
             "id": 39367,
-            "category": "Lève la main tu te regardes beaucoup dans le miroir",
+            "category": "Lève la main si tu te regardes beaucoup dans le miroir",
             "type": "Hands"
         },
         {
@@ -2231,7 +2231,7 @@
             "x": false,
             "h": true,
             "id": 39410,
-            "category": "Lève la main si on t'appelle souvent par ton surnom",
+            "category": "Lève la main si on t'appelles souvent par ton surnom",
             "type": "Hands"
         },
         {
@@ -2252,7 +2252,7 @@
             "x": false,
             "h": false,
             "id": 39862,
-            "category": "Lève la main si tu es allé au toilette aujourd’hui",
+            "category": "Lève la main si tu es allé aux toilettes aujourd’hui",
             "type": "Hands"
         },
         {
@@ -2273,7 +2273,7 @@
             "x": true,
             "h": true,
             "id": 39865,
-            "category": "Lève la main si tu as un soutient-gorge chez toi",
+            "category": "Lève la main si tu as un soutien-gorge chez toi",
             "type": "Hands"
         },
         {
@@ -2287,7 +2287,7 @@
             "x": false,
             "h": false,
             "id": 39867,
-            "category": "Lève la main si tu as déjà vomi sur toi-même",
+            "category": "Lève la main si tu t'es déjà vomi dessus",
             "type": "Hands"
         },
         {
@@ -2308,7 +2308,7 @@
             "x": true,
             "h": false,
             "id": 39870,
-            "category": "Lève la main si tu regarde ton caca après avoir été aux toilettes",
+            "category": "Lève la main si tu regardes ton caca après avoir été aux toilettes",
             "type": "Hands"
         },
         {
@@ -2392,7 +2392,7 @@
             "x": true,
             "h": false,
             "id": 39882,
-            "category": "Lève la main si tu ne porte parfois pas de sous-vêtements",
+            "category": "Lève la main si tu ne portes parfois pas de sous-vêtements",
             "type": "Hands"
         },
         {
@@ -2434,7 +2434,7 @@
             "x": false,
             "h": true,
             "id": 39888,
-            "category": "Lève la main si tu porte un vêtement rouge",
+            "category": "Lève la main si tu portes un vêtement rouge",
             "type": "Hands"
         },
         {

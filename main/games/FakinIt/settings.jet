@@ -1,0 +1,90 @@
+{
+    "rows": 7,
+    "cols": 1,
+    "cellWidth": 682,
+    "cellHeight": 57,
+    "clip": "FakinItSettingsWidget",
+    "items": [
+        {
+            "title": "Volume",
+            "type": "Range",
+            "clip": "FakinItSliderWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "Volume",
+            "step": 0.1,
+            "description": "Reglez le volume pour un max de BRUIT"
+        },
+        {
+            "title": "Plein Ecran",
+            "type": "Toggle",
+            "clip": "FakinItToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "FullScreen",
+            "description": "Pour mettre le jeu en plein écran"
+        },
+        {
+            "title": "Mode Familial",
+            "type": "Toggle",
+            "clip": "FakinItToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "FakinItFamilyFriendly",
+            "description": "Si vous ne voulez pas être gèné en famille"
+        },
+        {
+            "title": "Public",
+            "type": "Toggle",
+            "clip": "FakinItToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "FakinItAudienceOn",
+            "description": "Autorisez ou non le public a rejoindre pendant la partie"
+        },
+        {
+            "title": "Twitch",
+            "type": "Toggle",
+            "clip": "FakinItToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "FakinItRequireTwitch",
+            "description": "Rendre obligatoire la connexion a Twitch pour jouer (mode streamer)"
+        },
+        {
+            "title": "Censure Manuelle",
+            "type": "Toggle",
+            "clip": "FakinItToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "FakinItCensorable",
+            "description": "Autoriser le VIP a censurer les réponses"
+        },
+        {
+            "title": "Commencer depuis une manette",
+            "type": "Toggle",
+            "clip": "FakinItToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "FakinItGamepadStart",
+            "description": "Pour ceux qui ne veulent pas que l'on puisse démarrer la partie via son téléphone"
+        },
+        {
+            "title": "Cacher le code",
+            "type": "Toggle",
+            "clip": "FakinItToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "FakinItHideRoomCode",
+            "description": "Cacher le code permet de ne pas avoir d'intrus dans sa partie (recommendé pour les streamers)"
+        }
+    ]
+}

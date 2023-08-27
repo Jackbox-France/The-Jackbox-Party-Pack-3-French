@@ -1,0 +1,33 @@
+{
+    "views": [
+        {
+            "id": "session",
+            "name": "Stats de la Sessions",
+            "description": "Statistiques de la dernière sessions (reset lors de la prochaine)"
+        },
+        {
+            "id": "twitch",
+            "name": "Stats Twitch",
+            "description": "Statistiques de la session Twitch (reset lors de la prochaine)"
+        }
+    ],
+    "columns": [{
+        "id": "playerName",
+        "name": "Pseudo"
+    }, {
+        "id": "topScore",
+        "name": "Record"
+    }, {
+        "id": "averageScore",
+        "name": "Score"
+    }, {
+        "id": "gamesWon",
+        "name": "Parties remportés"
+    }, {
+        "id": "fakerWins",
+        "name": "Faussaire gagnant"
+    }, {
+        "id": "sleuthWins",
+        "name": "Votes Corrects"
+    }]
+}

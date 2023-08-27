@@ -8,9 +8,9 @@ Ce repository contient les traductions de la communauté française pour le jeu 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | Quiplash 2  | ❌ | ❌ | ❌ | ❌ | ❌ | |
 | Trivia Murder Party  | ❌ | ❌ | ❌ | ❌ | ❌ | |
-| Guesspionage  | ✅ | ❌ | ❌ | ❌ | ❌ | |
+| Guesspionage  | ❌ | ❌ | ❌ | ❌ | ❌ | |
 | Fakin It | ⚪ | ⚪ | ❌ | ⚪ | ⚪ | Taupi et Zaryus |
-| Tee K.O. | ✅ | ❌ | ❌ | ❌ | ❌ | |
+| Tee K.O. | ❌ | ❌ | ❌ | ❌ | ❌ | |
 
 ✅ Terminé</br>
 ⚪ Commencé mais non terminé</br>
